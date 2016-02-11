@@ -8,7 +8,7 @@ TARGET_BOOTLOADER_BOARD_NAME := E6653
 
 #Kernel
 TARGET_KERNEL_SOURCE := kernel/sony/kitakami
-TARGET_KERNEL_CONFIG := cm_kitakami_sumire_defconfig
+TARGET_KERNEL_CONFIG := twrp_kitakami_sumire_defconfig
 
 #dex2oatd
 DONT_DEXPREOPT_PREBUILTS := true

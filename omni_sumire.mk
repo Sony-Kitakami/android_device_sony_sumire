@@ -12,12 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
-
 # Inherit device configuration
 $(call inherit-product, device/sony/sumire/full_sumire.mk)
 
 # Release name
 PRODUCT_RELEASE_NAME := E6653
-PRODUCT_NAME := cm_sumire
+PRODUCT_NAME := omni_sumire

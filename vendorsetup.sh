@@ -1,3 +1,3 @@
-add_lunch_combo cm_sumire-userdebug
-add_lunch_combo cm_sumire-eng
+add_lunch_combo omni_sumire-userdebug
+add_lunch_combo omni_sumire-eng
 
