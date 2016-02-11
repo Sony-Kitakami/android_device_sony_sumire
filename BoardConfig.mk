@@ -3,7 +3,7 @@ LOCAL_PATH := device/sony/sumire
 PRODUCT_PLATFORM := kitakami
 
 # Build TWRP FSTAB
-TARGET_RECOVERY_FSTAB := $(LOCAL_PATH)/twrp.fstab
+TARGET_TWRP_FSTAB := true
 
 include device/sony/kitakami/PlatformConfig.mk
 
