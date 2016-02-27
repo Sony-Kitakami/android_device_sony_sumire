@@ -56,10 +56,6 @@ PRODUCT_PACKAGES += \
     fingerprintd \
     fingerprint.sumire
 
-# NFC config
-PRODUCT_PACKAGES += \
-    nfc_nci.sumire
-
 # Telephony Packages (AOSP)
 PRODUCT_PACKAGES += \
     InCallUI \
