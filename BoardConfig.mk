@@ -16,6 +16,8 @@ include device/sony/kitakami/PlatformConfig.mk
 
 TARGET_BOOTLOADER_BOARD_NAME := E6653
 
+TARGET_KERNEL_CONFIG := cyanogenmod_kitakami_suzuran_defconfig
+
 WIFI_BUS := PCIE
 
 BOARD_KERNEL_CMDLINE += androidboot.hardware=sumire
